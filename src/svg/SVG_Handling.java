@@ -31,6 +31,8 @@ public class SVG_Handling {
 			String txtcollection = texts.getText();
 			System.out.println(txtcollection);
 			System.out.println();
+			Thread.sleep(3000);
+			System.out.println("Finished");
 		}
 		
 		
